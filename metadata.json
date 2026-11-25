@@ -1,6 +1,6 @@
 {
   "name": "Hotel Mercedes — Limone sul Garda",
-  "description": "Boutique hotel immerso negli uliveti di Limone sul Garda, parte della Limen Collection. Camere panoramiche, Villa Oliveto pet-friendly, piscina a sfioro riscaldata e ristorante La Dolce Vita.",
+  "description": "Boutique hotel immerso negli uliveti di Limone sul Garda, parte della Garbera Collection. Camere panoramiche, Villa Oliveto pet-friendly, piscina a sfioro riscaldata e ristorante La Dolce Vita.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"

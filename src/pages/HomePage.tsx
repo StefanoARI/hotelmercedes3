@@ -170,7 +170,7 @@ export function HomePage({
           >
             <div className="flex items-center justify-center gap-4 text-xs md:text-sm tracking-[0.18em] text-[#badfff]">
               <span aria-hidden="true" className="h-px w-8 bg-[#badfff]/55" />
-              <span>Limen Collection · Limone sul Garda</span>
+              <span>Garbera Collection · Limone sul Garda</span>
               <span aria-hidden="true" className="h-px w-8 bg-[#badfff]/55" />
             </div>
 

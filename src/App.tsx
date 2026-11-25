@@ -51,7 +51,7 @@ export default function App() {
 
   useEffect(() => {
     const titles: Record<PageId, string> = {
-      home: 'Hotel Mercedes — Limone sul Garda | Limen Collection',
+      home: 'Hotel Mercedes — Limone sul Garda | Garbera Collection',
       camere: 'Camere — Residenza Mercedes | Hotel Mercedes Limone sul Garda',
       'villa-oliveto':
         'Villa Oliveto — Dépendance Storica | Hotel Mercedes Limone sul Garda',

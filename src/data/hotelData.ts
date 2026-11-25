@@ -390,7 +390,7 @@ export const SURROUNDINGS_ITEMS: SurroundingsItem[] = [
 
 export const HOTEL_CONTACT = {
   brand: 'Hotel Mercedes',
-  collection: 'Limen Collection',
+  collection: 'Garbera Collection',
   address: 'Via Nanzello, 12 — 25010 Limone sul Garda (BS)',
   website: 'www.mercedeshotel.com',
   bookingEmail: 'info@mercedeshotel.com',
