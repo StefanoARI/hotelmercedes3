@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Italiana", Georgia, "Times New Roman", serif;
+  --font-sans: "Ysabeau", "Open Sans", Arial, Helvetica, sans-serif;
+
+  --color-ink: #010722;
+  --color-navy: #07233b;
+  --color-lake: #2a7cc3;
+  --color-lake-dark: #1f64a1;
+  --color-sky-active: #badfff;
+  --color-mist: #abb8c3;
+  --color-surface: #f7f9fc;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #010722;
+    background-color: #ffffff;
+    scroll-behavior: smooth;
+  }
+
+  h1,
+  h2 {
+    font-family: var(--font-display);
+    color: #07233b;
+    text-wrap: balance;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-sans);
+    color: #07233b;
+  }
+
+  button,
+  a {
+    cursor: pointer;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
